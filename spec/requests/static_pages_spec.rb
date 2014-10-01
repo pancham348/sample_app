@@ -35,4 +35,6 @@ subject {page}
      it {should have_title(full_title('Contact'))}
   end
  
+
+
 end
